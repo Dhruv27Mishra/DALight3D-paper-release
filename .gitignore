@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local outputs and checkpoints
+data/
+outputs/
+cnnv2_results/
+results/
+*.pth
+*.tar
+*.zip

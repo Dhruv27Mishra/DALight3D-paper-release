@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+tqdm
+tensorboard
+nibabel
+SimpleITK
+torch
