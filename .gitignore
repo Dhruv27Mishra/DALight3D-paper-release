@@ -6,7 +6,6 @@ __pycache__/
 data/
 outputs/
 cnnv2_results/
-results/
 *.pth
 *.tar
 *.zip
